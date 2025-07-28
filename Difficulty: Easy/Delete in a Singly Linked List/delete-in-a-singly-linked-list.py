@@ -27,3 +27,4 @@ def deleteNode(head, x):
         current.next = current.next.next
 
     return head
+ 
